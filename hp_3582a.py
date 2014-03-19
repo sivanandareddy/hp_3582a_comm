@@ -246,4 +246,3 @@ class hp_3582a:
         value = float(data[0:10]);
         freq = float(data[12:20]);
         return [value, freq]
-         
